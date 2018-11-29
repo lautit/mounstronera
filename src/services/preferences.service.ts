@@ -7,7 +7,7 @@ export class PreferencesService {
 
   get DEFAULT_PREFERENCES() {
     return {
-      baseUrl: 'https://misc.kalis.me',
+      baseUrl: 'http://pchomecomputacion.com.ar/lautaro/dev',
       soundsFile: '/sounds.json',
       cachingEnabled: true
     };
